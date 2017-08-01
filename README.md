@@ -7,3 +7,4 @@ Azure Key Vault is used to safeguard and manage cryptographic keys, certificates
 
 Please check the Python version of this script at: https://github.com/thefossgeek/azure-python-samples
 
+NOTE: I tested the script with only PowerShell version 4 on Windows Server 2012 R2. 
